@@ -1,0 +1,46 @@
+.main {
+
+    font-family:'Arial, sans-serif';
+    padding: 30vh 0px;
+    text-align: center;
+  
+  }
+  
+  body {
+  
+    background-color: lightblue;
+  
+  }
+  
+  #heading {
+  
+    font-size: 50px;
+  
+  }
+  
+  #check-btn, #clear-btn {
+  
+    background-color: moccasin;
+    border-radius: 10%;
+    border-width: 1px;
+    height: 54px;
+    width: 85px;
+    font-size: x-large;
+  
+  }
+  
+  #user-input {
+  
+    background-color:floralwhite;
+    border-width: 2px;
+    height: 50px;
+    width: 330px;
+    font-size: x-large;
+  
+  }
+  
+  p {
+  
+    font-weight: normal;
+  
+  }
